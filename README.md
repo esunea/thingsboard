@@ -2,7 +2,15 @@
 
 
 sudo apt-get install default-jre
+
 sudo apt-get install default-jdk
+
+sudo apt-get install maven
+
+en cas de pépin avec $JAVA_HOME : https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-get-on-ubuntu-16-04
+allez dans le répertoire /usr/lib/jvm et cherchez le soucis
+
+mvn --version pour check l'install de maven et java
 
 
 
