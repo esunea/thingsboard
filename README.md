@@ -1,5 +1,7 @@
 # Procédure pour installer thingsboard
 
+je suis ce tuto https://thingsboard.io/docs/user-guide/contribution/how-to-contribute/
+
 
 sudo apt-get install default-jre
 
@@ -11,6 +13,8 @@ en cas de pépin avec $JAVA_HOME : https://www.digitalocean.com/community/tutori
 allez dans le répertoire /usr/lib/jvm et cherchez le soucis
 
 mvn --version pour check l'install de maven et java
+
+installer node en global sans utiliser sudo : https://topaxi.codes/use-npm-without-root-or-sudo-rights/
 
 
 
