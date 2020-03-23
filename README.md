@@ -2,6 +2,9 @@
 
 je suis ce tuto https://thingsboard.io/docs/user-guide/contribution/how-to-contribute/
 
+sudo apt-get install nodejs
+
+sudo apt-get install git
 
 sudo apt-get install default-jre
 
